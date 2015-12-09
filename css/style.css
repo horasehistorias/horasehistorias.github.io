@@ -6,19 +6,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
 	margin:0;
-	font-family: 'Roboto-Light';
+	font-family: "Amaranth-Regular"
 }
 @font-face {
-      font-family: 'Roboto-Light';
-      src: url(../fonts/Roboto-Light.ttf) format('truetype');
+      font-family: 'Amaranth-Bold';
+      src: url(../fonts/Amaranth-Bold.otf) format('truetype');
 }
 @font-face {
-      font-family: 'Marvel-Bold';
-      src: url(../fonts/Marvel-Bold.ttf) format('truetype');
-}
-@font-face {
-      font-family: 'Marvel-Regular';
-      src: url(../fonts/Marvel-Regular.ttf) format('truetype');
+      font-family: 'Amaranth-Regular';
+      src: url(../fonts/Amaranth.otf) format('truetype');
 }
 body a{
 	transition: 0.5s all ease;
@@ -78,7 +74,7 @@ input.form-control:focus {
   font-size: 3em;
   color: #fff;
   font-weight: 700;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
 }
 .top-nav {
 	float: left;
@@ -101,7 +97,7 @@ span.menu-icon {
   color: #4f868e;
   font-size: 1.5em;
   display: block;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
   font-weight: 800;
 }
 .top-nav li a:hover,.top-nav li a.active {
@@ -396,7 +392,7 @@ button.btn.btn-default:focus {
   font-size: 2.2em;
   width: 50%;
   margin: 0 auto;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #000;
   line-height: 1.4em;
 }
@@ -433,7 +429,7 @@ button.btn.btn-default:focus {
 .gallery h4 {
   font-size: 2.8em;
   text-align: center;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #fff;
   margin-bottom: .3em;
 }
@@ -459,7 +455,7 @@ button.btn.btn-default:focus {
 .work-title h3 {
   font-size: 2.8em;
   text-align: center;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #4f868e;
 }
 .work-title p {
@@ -483,7 +479,7 @@ button.btn.btn-default:focus {
 }
 .work-grids h4 {
   font-size: 2em;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #000;
   margin-bottom: .2em;
 }
@@ -564,7 +560,7 @@ button.btn.btn-default:focus {
 }
 .footer-grids h4 {
   font-size: 2.5em;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #4f868e;
 }
 .footer-grids h5 {
@@ -664,7 +660,7 @@ button.btn.btn-default:focus {
   font-size: 3em;
   font-weight: 600;
   text-align: center;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
 }
 .about-text-left img {
 	width: 100%;
@@ -675,7 +671,7 @@ button.btn.btn-default:focus {
 .about-text-right h4 {
   color: #000;
   font-size: 1.4em;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
   line-height: 1.4em;
 }
 .about-text-right p {
@@ -709,7 +705,7 @@ button.btn.btn-default:focus {
 .about-slid h2 {
   color: #fff;
   font-size: 4em;
-    font-family: 'Marvel-Bold';
+    font-family: 'Amaranth-Bold';
 }
 .about-slid p {
   color: #fff;
@@ -737,7 +733,7 @@ button.btn.btn-default:focus {
 .about-team  h4 {
   color: #000;
   font-size: 1.5em;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
 }
 .about-team  h4 a{
   color: #000;
@@ -756,7 +752,7 @@ button.btn.btn-default:focus {
   font-size: 1.8em;
   font-weight: 500;
   margin: 2.5em 0 .8em;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Amaranth-Regular', sans-serif;
 }
 .about-choose-info h5 {
   color: #4f868e;
@@ -764,7 +760,7 @@ button.btn.btn-default:focus {
   font-weight: 400;
   margin: 0em 0 .8em;
   line-height: 21px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Amaranth-Regular', sans-serif;
 }
 .about-choose-info p{
   color: #999;
@@ -795,7 +791,7 @@ button.btn.btn-default:focus {
 .services h3 {
   font-size: 3em;
   text-align: center;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   color: #4f868e;
 }
 .row.services-info {
@@ -816,7 +812,7 @@ button.btn.btn-default:focus {
 }
 .caption.services-caption h4 {
   font-size: 1.5em;
-  font-family: 'Marvel-Regular';
+  font-family: 'Amaranth-Regular';
   margin: 0 0 0.5em;
 }
 .caption.services-caption h4 a {
@@ -912,7 +908,7 @@ img.img-responsive.glry-img {
   font-size: 3em;
   font-weight: 600;
   text-align: center;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
   margin-bottom: 1.5em;
 }
 /*--//news--*/
@@ -928,7 +924,7 @@ img.img-responsive.glry-img {
   font-size: 3em;
   font-weight: 600;
   text-align: center;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
 }
 .contact-form input[type="text"] {
   display: block;
@@ -993,7 +989,7 @@ img.img-responsive.glry-img {
 /*--trypography--*/
 .news h3 {
   color: #4f868e;
-  font-family: 'Marvel-Bold';
+  font-family: 'Amaranth-Bold';
 }
 h3.btsp {
   color: #999;
@@ -1133,6 +1129,19 @@ section#tables  p {
 h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
   margin-top:1em;
 }
+
+
+.right-contacts {
+	border-left: 2px solid rgb(150, 148, 148);
+	padding-left: 15px;
+	margin: 70px 0;
+	font-family: 'Amaranth-Regular';
+}
+
+.right-contacts .field {
+  font-family: 'Amaranth-Bold';
+}
+
 /*---- responsive-design -----*/
 @media(max-width:1280px){
 .banner {
