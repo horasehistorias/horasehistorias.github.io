@@ -40,7 +40,7 @@ body a:hover{
 /*--header--*/
 .header {
   padding:1.3em 0;
-  background-color: #4f868e;
+  background-color: #669999;
 }
 .header p {
   font-size: 1.1em;
@@ -94,7 +94,7 @@ span.menu-icon {
   margin-left: 0;
 }
 .top-nav li a {
-  color: #4f868e;
+  color: #669999;
   font-size: 1.5em;
   display: block;
   font-family: 'Amaranth-Bold';
@@ -379,7 +379,7 @@ button.btn.btn-default:focus {
 	background: white;
 }
 .callbacks_here a:after{
-	background: #4f868e;
+	background: #669999;
 }
 /*--//slider end here--*/
 /*--//banner--*/
@@ -456,7 +456,7 @@ button.btn.btn-default:focus {
   font-size: 2.8em;
   text-align: center;
   font-family: 'Amaranth-Regular';
-  color: #4f868e;
+  color: #669999;
 }
 .work-title p {
   font-size: 1em;
@@ -561,7 +561,7 @@ button.btn.btn-default:focus {
 .footer-grids h4 {
   font-size: 2.5em;
   font-family: 'Amaranth-Regular';
-  color: #4f868e;
+  color: #669999;
 }
 .footer-grids h5 {
 	color: #000;
@@ -594,7 +594,7 @@ button.btn.btn-default:focus {
 	color: #868686;
 }
 .recent-posts ul li a:hover{
-	color:#4f868e;
+	color:#669999;
 }
 .recent-posts ul li span{
 	background: url(../images/iconsprite.png)no-repeat 0px 3px;
@@ -609,7 +609,7 @@ button.btn.btn-default:focus {
 	margin-right: 15px;
 }
 .footer-bottom {
-  background: #4f868e;
+  background: #669999;
   text-align: center;
   padding: 2em 0;
 }
@@ -656,7 +656,7 @@ button.btn.btn-default:focus {
 	padding: 4em 0;
 }
 .about h3 {
-  color: #4f868e;
+  color: #669999;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -694,7 +694,7 @@ button.btn.btn-default:focus {
   font-size: 1em;
 }
 .about-text-right ul li a:hover{
-	color: #4f868e;
+	color: #669999;
 }
 .about-slid{
   background: url(../images/slid.jpg)no-repeat 0px 0px;
@@ -739,7 +739,7 @@ button.btn.btn-default:focus {
   color: #000;
 }
 .about-team  h4 a:hover{
-  color: #4f868e;
+  color: #669999;
 }
 .about-team p {
   color: #868585;
@@ -755,7 +755,7 @@ button.btn.btn-default:focus {
   font-family: 'Amaranth-Regular', sans-serif;
 }
 .about-choose-info h5 {
-  color: #4f868e;
+  color: #669999;
   font-size: 15px;
   font-weight: 400;
   margin: 0em 0 .8em;
@@ -792,7 +792,7 @@ button.btn.btn-default:focus {
   font-size: 3em;
   text-align: center;
   font-family: 'Amaranth-Regular';
-  color: #4f868e;
+  color: #669999;
 }
 .row.services-info {
   margin-top: 3em;
@@ -904,7 +904,7 @@ img.img-responsive.glry-img {
   padding: 4em 0;
 }
 .news h3.ttl {
-  color: #4f868e;
+  color: #669999;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -920,7 +920,7 @@ img.img-responsive.glry-img {
 	  padding: 3em 0 0;
 }
 .contact h3 {
-  color: #4f868e;
+  color: #669999;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -981,14 +981,14 @@ img.img-responsive.glry-img {
 	-ms-transition: 0.5s all ease;
 }
 .contact-form input[type="submit"]:hover {
-  border: 1px dotted #4f868e;
+  border: 1px dotted #669999;
   color: #3F8683;
   background: none;
 }
 /*--//contact-page--*/
 /*--trypography--*/
 .news h3 {
-  color: #4f868e;
+  color: #669999;
   font-family: 'Amaranth-Bold';
 }
 h3.btsp {
