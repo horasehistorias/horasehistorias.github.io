@@ -531,10 +531,10 @@ button.btn.btn-default:focus {
 	background-color: #c82506;
 	padding: 4em 2em 3em;
 	text-align: center;
-	width: 20%;
+	width: 40%;
 	position: absolute;
 	top: 26%;
-	left: 40%;
+	left: 30%;
 }
 .map-info li {
   display: block;
@@ -1384,7 +1384,7 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 	}
 	.services-grids {
 		float: left;
-		width: 33.33%;
+		width: 100%;
 	}
 }
 @media(max-width:736px){
@@ -1473,9 +1473,9 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 		font-size: 14px;
 	}
 	.map-info {
-		width: 32%;
+		width: 50%;
 		top: 16%;
-		left: 33%;
+		left: 25%;
 	}
 	.map iframe {
 		height: 290px;
@@ -1498,7 +1498,7 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 	}
 	.services-grids {
 		float: left;
-		width: 33.33%;
+		width: 100%;
 	}
 	.caption.services-caption h4 {
 		font-size: 1.2em;
@@ -1574,7 +1574,7 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 	}
 	/*-- //t --*/
 	.services-grids {
-		width: 50%;
+		width: 100%;
 	}
 	.about-slid h2 {
 		font-size: 2em;
@@ -1784,7 +1784,7 @@ h1.t-button,h2.t-button,h3.t-button,h4.t-button,h5.t-button {
 		margin: 1em 1em 0 0em;
 	}
 	.map-info {
-		width: 52%;
+		width: 70%;
 		top: 12%;
 		left: 27%;
 	}
