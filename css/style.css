@@ -55,6 +55,9 @@ body a:hover{
 .header-logo a {
 	display: block;
 }
+.header-logo a img{
+	height: 100px;
+}
 .header-info{
 	float:right;
 }
