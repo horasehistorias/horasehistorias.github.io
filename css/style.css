@@ -50,6 +50,7 @@ body a:hover{
 }
 .header-logo{
 	float:left;
+  width: 15%;
 }
 .header-logo a {
 	display: block;
