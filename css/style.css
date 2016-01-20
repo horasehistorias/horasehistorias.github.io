@@ -40,7 +40,7 @@ body a:hover{
 /*--header--*/
 .header {
   padding:1.3em 0;
-  background-color: #669999;
+  background-color: #4f868e;
 }
 .header p {
   font-size: 1.1em;
@@ -94,7 +94,7 @@ span.menu-icon {
   margin-left: 0;
 }
 .top-nav li a {
-  color: #669999;
+  color: #4f868e;
   font-size: 1.5em;
   display: block;
   font-family: 'Amaranth-Bold';
@@ -379,7 +379,7 @@ button.btn.btn-default:focus {
 	background: white;
 }
 .callbacks_here a:after{
-	background: #669999;
+	background: #4f868e;
 }
 /*--//slider end here--*/
 /*--//banner--*/
@@ -456,7 +456,7 @@ button.btn.btn-default:focus {
   font-size: 2.8em;
   text-align: center;
   font-family: 'Amaranth-Regular';
-  color: #669999;
+  color: #4f868e;
 }
 .work-title p {
   font-size: 1em;
@@ -561,7 +561,7 @@ button.btn.btn-default:focus {
 .footer-grids h4 {
   font-size: 2.5em;
   font-family: 'Amaranth-Regular';
-  color: #669999;
+  color: #4f868e;
 }
 .footer-grids h5 {
 	color: #000;
@@ -594,7 +594,7 @@ button.btn.btn-default:focus {
 	color: #868686;
 }
 .recent-posts ul li a:hover{
-	color:#669999;
+	color:#4f868e;
 }
 .recent-posts ul li span{
 	background: url(../images/iconsprite.png)no-repeat 0px 3px;
@@ -609,7 +609,7 @@ button.btn.btn-default:focus {
 	margin-right: 15px;
 }
 .footer-bottom {
-  background: #669999;
+  background: #4f868e;
   text-align: center;
   padding: 2em 0;
 }
@@ -656,7 +656,7 @@ button.btn.btn-default:focus {
 	padding: 4em 0;
 }
 .about h3 {
-  color: #669999;
+  color: #4f868e;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -694,10 +694,10 @@ button.btn.btn-default:focus {
   font-size: 1em;
 }
 .about-text-right ul li a:hover{
-	color: #669999;
+	color: #4f868e;
 }
 .about-slid{
-  background: url(../images/slid.jpg)no-repeat 0px 0px;
+  background: url(../images/slid.png)no-repeat 0px 0px;
   background-size: cover;
   text-align: center;
   padding: 7.5em 0;
@@ -739,7 +739,7 @@ button.btn.btn-default:focus {
   color: #000;
 }
 .about-team  h4 a:hover{
-  color: #669999;
+  color: #4f868e;
 }
 .about-team p {
   color: #868585;
@@ -755,7 +755,7 @@ button.btn.btn-default:focus {
   font-family: 'Amaranth-Regular', sans-serif;
 }
 .about-choose-info h5 {
-  color: #669999;
+  color: #4f868e;
   font-size: 15px;
   font-weight: 400;
   margin: 0em 0 .8em;
@@ -792,7 +792,7 @@ button.btn.btn-default:focus {
   font-size: 3em;
   text-align: center;
   font-family: 'Amaranth-Regular';
-  color: #669999;
+  color: #4f868e;
 }
 .row.services-info {
   margin-top: 3em;
@@ -805,10 +805,17 @@ button.btn.btn-default:focus {
 .services-grids .moments-bottom {
   overflow: hidden;
 }
+
+.services-grids ul li {
+  display: block;
+  background: url(../images/icon10.png)no-repeat 0px 3px;
+  padding-left: 1.5em;
+  margin: 1em 0 0;
+}
+
 .caption.services-caption {
   padding: 1.5em;
-  border: 1px solid #356272;
-  text-align: center;
+  /*border: 1px solid #356272;*/
 }
 .caption.services-caption h4 {
   font-size: 1.5em;
@@ -904,7 +911,7 @@ img.img-responsive.glry-img {
   padding: 4em 0;
 }
 .news h3.ttl {
-  color: #669999;
+  color: #4f868e;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -920,7 +927,7 @@ img.img-responsive.glry-img {
 	  padding: 3em 0 0;
 }
 .contact h3 {
-  color: #669999;
+  color: #4f868e;
   font-size: 3em;
   font-weight: 600;
   text-align: center;
@@ -981,14 +988,14 @@ img.img-responsive.glry-img {
 	-ms-transition: 0.5s all ease;
 }
 .contact-form input[type="submit"]:hover {
-  border: 1px dotted #669999;
+  border: 1px dotted #4f868e;
   color: #3F8683;
   background: none;
 }
 /*--//contact-page--*/
 /*--trypography--*/
 .news h3 {
-  color: #669999;
+  color: #4f868e;
   font-family: 'Amaranth-Bold';
 }
 h3.btsp {
