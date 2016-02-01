@@ -499,8 +499,7 @@ button.btn.btn-default:focus {
 }
 .like-grids {
   background-color: rgb(68, 136, 133);
-  margin: 0 32px;
-  width: 19%;
+  margin-right: 10px;
   padding: 20px;
 }
 .like-grids a {
@@ -528,7 +527,7 @@ button.btn.btn-default:focus {
   border: 0;
 }
 .map-info {
-	background-color: #c82506;
+	background-color: #4f868e;
 	padding: 4em 2em 3em;
 	text-align: center;
 	width: 40%;
@@ -541,6 +540,10 @@ button.btn.btn-default:focus {
   font-size: 16px;
   color: #fff;
   margin-bottom: 2px;
+}
+.map-info li a {
+	color: #FFFFFF;
+	text-decoration: underline;
 }
 .map-info:before {
   content: "";
@@ -573,7 +576,7 @@ button.btn.btn-default:focus {
 }
 .recent-posts-text {
   padding: 2em 0 1.6em;
-  border-bottom: 1px dotted #C82506;
+  border-bottom: 1px dotted #4f868e;
 }
 .recent-posts-text span {
 	color: #7b6c63;
@@ -679,7 +682,7 @@ button.btn.btn-default:focus {
   line-height: 1.4em;
 }
 .about-text-right p {
-  color: #868585;
+  color: #444444;
   font-size: 1em;
   line-height: 1.8em;
     margin-top: 1em;
